@@ -1,14 +1,13 @@
 ---
 layout: post
-title: 自我意识之我见
-category: blog
+title: "自我意识之我见"
+subtitle: "关于意识，智能以及生命的一种猜想"
+background: '/img/posts/self-consciousness/matrix.jpg'
 ---
 
 # 前言
 
 此文最早发表于我的简书账号[AlexanderGreat](https://www.jianshu.com/u/1ef205ce903a)，现再发布于微信公众号上以及Mohism AI Lab，内容略有改动。
-
-![matrix](/img/posts/self-consciousness/matrix.jpg)
 
 # 正文
 
