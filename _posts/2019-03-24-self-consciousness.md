@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "自我意识之我见"
 subtitle: "关于意识，智能以及生命的一种猜想"
 background: '/img/posts/self-consciousness/matrix.jpg'
