@@ -8,7 +8,7 @@ category: blog
 
 此文最早发表于我的简书账号[AlexanderGreat](https://www.jianshu.com/u/1ef205ce903a)，现再发布于微信公众号上以及Mohism AI Lab，内容略有改动。
 
-![matrix](img/posts/self-consciousness/matrix.jpg)
+![matrix](/img/posts/self-consciousness/matrix.jpg)
 
 # 正文
 
